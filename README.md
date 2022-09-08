@@ -1,4 +1,4 @@
-# flask-local-camera-video-feed-with-opencv
+# flask local camera video feed with opencv
 flask app , provide local camera live video stream with opencv
 
 #### Language：`Python3.8.9`
